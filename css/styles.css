@@ -166,7 +166,6 @@ body {
     margin-right: 10px;
 }
 
-
 /*================ HERO ================*/
 .hero-section {
     text-align: center;
@@ -328,12 +327,12 @@ body {
     color: var(--primary-white-color);
 }
 
+/*================ /WORK ================*/
 /*================ EMPLOYEES ================*/
 
 .section-employees {
     background: #F5F4FA;
 }
-
 
 .employees-card-container-wrapper {
     padding-top: 30px;
@@ -623,10 +622,6 @@ body {
     background-color: transparent;
     border: 1px solid rgba(0, 0, 0, 0.1);
     padding: 0;
-
-
-
-
 }
 
 /*================ /MODAL WINDOW ===========*/
